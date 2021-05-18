@@ -2,7 +2,8 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.12.
 # PROJECT DESCRIPTION
 This project is comprised of a display which shows all the quotes saved on the system.
-It consists of a form where the user can add more quotes into the system.
+It consists of a form where the user can add more quotes into the system.When the user deletes any quote a pop
+up alert will be desplayed.
 
 # TECHNOLOGIES USED
  These are:<ul>
